@@ -1,0 +1,156 @@
+{
+	"cards": [
+		{
+			"title": "first card",
+			"subtitle": "first card subtitle",
+			"description": "first card description",
+			"phone": "050-0000000",
+			"email": "first@gmail.com",
+			"web": "",
+			"image": {
+				"url": "",
+				"alt": ""
+			},
+			"address": {
+				"state": "",
+				"country": "Germany",
+				"city": "Berlin",
+				"street": "nehmad meod",
+				"houseNumber": "5",
+				"zip": ""
+			}
+		},
+		{
+			"title": "second card",
+			"subtitle": "second card subtitle",
+			"description": "second card description",
+			"phone": "050-0000000",
+			"email": "second@gmail.com",
+			"web": "",
+			"image": {
+				"url": "",
+				"alt": ""
+			},
+			"address": {
+				"state": "",
+				"country": "israel",
+				"city": "Tel-Aviv",
+				"street": "haagana",
+				"houseNumber": "5",
+				"zip": ""
+			}
+		},
+		{
+			"title": "third card",
+			"subtitle": "third card subtitle",
+			"description": "third card description",
+			"phone": "050-0000000",
+			"email": "third@gmail.com",
+			"web": "",
+			"image": {
+				"url": "",
+				"alt": ""
+			},
+			"address": {
+				"state": "",
+				"country": "France",
+				"city": "Paris",
+				"street": "Jacku",
+				"houseNumber": "125",
+				"zip": ""
+			}
+		}
+	],
+	"users": [
+		{
+			"name": {
+				"first": "regular",
+				"last": "user"
+			},
+			"phone": "050-0967432",
+			"email": "regular@gmail.com",
+			"password": "Aa1234!",
+			"image": {
+				"url": "",
+				"alt": ""
+			},
+			"address": {
+				"state": "",
+				"country": "israel",
+				"city": "Rishon Letzion",
+				"street": "Hofesh",
+				"houseNumber": 5,
+				"zip": 0
+			},
+			"isBusiness": false
+		},
+		{
+			"name": {
+				"first": "regular2",
+				"last": "user"
+			},
+			"phone": "053-1238764",
+			"email": "regular2@gmail.com",
+			"password": "Aa1234!",
+			"image": {
+				"url": "",
+				"alt": ""
+			},
+			"address": {
+				"state": "",
+				"country": "USA",
+				"city": "Los Angeles",
+				"street": "Vennis Avenu",
+				"houseNumber": 231,
+				"zip": 0
+			},
+			"isBusiness": true
+		},
+
+		{
+			"name": {
+				"first": "business",
+				"last": "user"
+			},
+			"phone": "054-5252412",
+			"email": "business@gmail.com",
+			"password": "Aa1234!",
+			"image": {
+				"url": "",
+				"alt": ""
+			},
+			"address": {
+				"state": "",
+				"country": "israel",
+				"city": "Hertzelia",
+				"street": "Tikva",
+				"houseNumber":1,
+				"zip": 0
+			},
+			"isBusiness": true
+		},
+		{
+			"name": {
+				"first": "admin",
+				"last": "user"
+			},
+			"phone": "052-2794813",
+			"email": "admin@gmail.com",
+			"password": "Aa1234!",
+			"image": {
+				"url": "",
+				"alt": ""
+			},
+			"address": {
+				"state": "",
+				"country": "Canada",
+				"city": "Montreal",
+				"street": "Road street",
+				"houseNumber": 9,
+				"zip": 0
+			},
+			"isBusiness": true,
+			"isAdmin": true
+		}
+	]
+}
